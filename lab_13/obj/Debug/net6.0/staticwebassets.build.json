@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "kSZU+SmMMC5/Ts/taBXNs9q9Nhd3LzEzpV3d8ppIjuM=",
+  "Source": "lab_13",
+  "BasePath": "_content/lab_13",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab_13\\wwwroot",
+      "Source": "lab_13",
+      "ContentRoot": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\",
+      "BasePath": "_content/lab_13",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\favicon.ico",
+      "SourceId": "lab_13",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\",
+      "BasePath": "_content/lab_13",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\site.css",
+      "SourceId": "lab_13",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\",
+      "BasePath": "_content/lab_13",
+      "RelativePath": "site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e8hir1o617",
+      "Integrity": "vsZ3cU6MfkpfxXVj5NW7106dNPKwh9sWRtE1c+NkRnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 09:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 09:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "site.css",
+      "AssetFile": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsZ3cU6MfkpfxXVj5NW7106dNPKwh9sWRtE1c+NkRnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 09:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsZ3cU6MfkpfxXVj5NW7106dNPKwh9sWRtE1c+NkRnc="
+        }
+      ]
+    },
+    {
+      "Route": "site.e8hir1o617.css",
+      "AssetFile": "D:\\Учеба\\4 курс\\web-технологии\\932221.bogdan.kirill.lab13\\lab_13\\wwwroot\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsZ3cU6MfkpfxXVj5NW7106dNPKwh9sWRtE1c+NkRnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 09:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8hir1o617"
+        },
+        {
+          "Name": "label",
+          "Value": "site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsZ3cU6MfkpfxXVj5NW7106dNPKwh9sWRtE1c+NkRnc="
+        }
+      ]
+    }
+  ]
+}

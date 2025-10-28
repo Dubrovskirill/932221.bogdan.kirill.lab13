@@ -1,0 +1,97 @@
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\appsettings.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.runtime.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.endpoints.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.exe
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.deps.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.runtimeconfig.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.dll
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\bin\Debug\net6.0\lab_13.pdb
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfoInputs.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfo.cs
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.csproj.CoreCompileInputs.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cs
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\scopedcss\bundle\lab_13.styles.css
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.dll
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\refint\lab_13.dll
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.pdb
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\lab_13.genruntimeconfig.cache
+C:\Users\Gorevoy.Ale\web\lab13\lab_13\obj\Debug\net6.0\ref\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\appsettings.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.runtime.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.endpoints.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.exe
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.deps.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.runtimeconfig.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\bin\Debug\net6.0\lab_13.pdb
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfoInputs.cache
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfo.cs
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cache
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cs
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.sourcelink.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\scopedcss\bundle\lab_13.styles.css
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.lab_13.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.lab_13.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\refint\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.pdb
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\lab_13.genruntimeconfig.cache
+D:\Учеба\4 курс\web-технологии\932221.gorevoy.ale.lab13\lab_13\obj\Debug\net6.0\ref\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\appsettings.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.endpoints.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.staticwebassets.runtime.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.exe
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.deps.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.runtimeconfig.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\bin\Debug\net6.0\lab_13.pdb
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfoInputs.cache
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfo.cs
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cache
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.RazorAssemblyInfo.cs
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.sourcelink.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\scopedcss\bundle\lab_13.styles.css
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.lab_13.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.lab_13.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab_13.props
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\refint\lab_13.dll
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.pdb
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\lab_13.genruntimeconfig.cache
+D:\Учеба\4 курс\web-технологии\932221.bogdan.kirill.lab13\lab_13\obj\Debug\net6.0\ref\lab_13.dll
